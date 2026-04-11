@@ -4,13 +4,13 @@ Website portofolio pribadi yang dibangun dengan **Next.js 14** (App Router) dan 
 
 ## ✨ Fitur
 
-- 🌗 Dark mode / Light mode (otomatis detect preferensi sistem)
-- 📱 Fully responsive (mobile, tablet, desktop)
-- ⚡ Smooth scroll animations (Intersection Observer)
-- 🎨 Clean minimalist design dengan DM Serif Display + DM Sans
-- 4 Section: Hero, About, Skills, Contact
+- Dark mode / Light mode (otomatis detect preferensi sistem)
+- Website cukup responsif untuk tampilan mobile, tablet, desktop
+- Animasi scroll yang halus 
+- Clean minimalist design dengan DM Serif Display + DM Sans
+- Terdapat 4 Section: Hero, About, Skills, Contact
 
-## 🚀 Cara Menjalankan
+##  Cara Menjalankan
 
 ### 1. Install dependencies
 
@@ -64,7 +64,7 @@ portfolio/
 └── package.json
 ```
 
-## 🎨 Kustomisasi
+## Kustomisasi
 
 Edit data di masing-masing komponen:
 - **Hero.tsx** — nama, tagline, CTA buttons
